@@ -8,5 +8,7 @@ int main(void) {
 	printf("Hello World!\n");
 	printf("My name is Andrew Anderson");
 	printf("My major is Computer Science.\n");
+	printf("My name is Mathew Pagan\n", );
+	printf("My major is Electrical Engineering\n", );
 	return 0;
 }
