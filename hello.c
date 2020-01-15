@@ -6,5 +6,7 @@ Date: 2020/01/14
 
 int main(void) {
 	printf("Hello World!\n");
+	printf("My name is Andrew Anderson");
+	printf("My major is Computer Science.\n");
 	return 0;
 }
